@@ -1,0 +1,1402 @@
+header 3
+=======
+
+<div class="bg-[#00A7E0] w-[95%] h-[80px] mx-6">
+<!-- navbar -->
+ <div class="flex justify-between mx-6 items-center">
+    <div class="mt-6">
+ <ul class="flex space-x-5 text-xl text-white">
+        <li><a href="">Home</a></li>
+        <li><a href="">About Us</a></li>
+        <li><a href="">Our Service</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Privacy Policy</a></li>
+    </ul>
+    </div>
+    <div class="mt-6 bg-white px-5 py-2 rounded-[10px]">
+        <button>Contact Ust</button>
+    </div>
+   
+ </div>
+</div>
+
+
+====
+
+ALL HEADER
+======
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keystone Consulting Firm</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Add this in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+
+</head>
+<!-- 
+
+Color 1: #55AB3B
+
+Color 2: #007BB6
+
+Color 3: #00A7E0
+
+Color 4: #134B78
+
+Color 5: #094B67
+-->
+<body>
+    <!-- header -->
+
+
+    <div>
+
+            <!-- header one -->
+        <div class="bg-[#55AB3B] w-[100%] h-[50px] p-2 flex justify-between items-center">
+         <div class="flex space-x-3 items-center">
+          <i class="fa fa-phone"></i>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+         </div>
+         <!-- links -->
+          <div class="">
+            <!-- Facebook Icon -->
+<i class="fa-brands fa-facebook-f text-4xl"></i>
+
+<!-- WhatsApp Icon -->
+<i class="fa-brands fa-linkedin-in text-4xl"></i>
+
+
+
+          </div>
+        </div>
+        <!-- header two -->
+<div class="flex justify-between bg-[##ffffff]  w-[100%] h-[150px] text-white items-center px-6">
+<div class="logo">
+<img src="Assets/logo.png" alt="" srcset="">
+</div>
+<!-- left side -->
+<div class="flex justify-around space-x-3">
+    <div class="flex items-center space-x-3 bg-">
+       <i class="fa fa-phone text-2xl text-black bg-[#fff] px-3 py-2 rounded-[10px] "></i>
+        <div>
+            <p class="text-[#8f8282]">Phone Number</p>
+            <h4 class="text-black font-bold">618789789789</h4>
+        </div>
+    </div>
+     <div class="flex items-center space-x-3">
+       <i class="fa fa-map-marker text-2xl text-black bg-[#ffff] px-3 py-2 rounded-[10px] "></i>
+
+        <div>
+            <p class="text-[#8f8282]">Email Us Here</p>
+            <h4 class="text-black font-bold">majagh@gmail.com</h4>
+        </div>
+    </div>
+     <div class="flex items-center space-x-3">
+        <i class="fa fa-envelope text-2xl text-black bg-[#ffff] px-3 py-2 rounded-[10px] "></i>
+
+        <div>
+            <p class="text-[#8f8282]">Office Address</p>
+            <h4 class="text-black font-bold">618789789789</h4>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- header three -->
+<div class="bg-cover bg-center w-[100%] h-[800px]" style="background-image: url('Assets/bg1.jpg');">
+
+
+
+<div class="bg-gradient-to-r from-[#00A7E0] fixed to-[#134B78]  w-[95%] h-[80px]  mx-6" >
+    <!-- navbar -->
+    <div class="flex justify-between mx-6 items-center">
+        <div class="mt-6">
+            <ul class="flex space-x-5 text-xl text-white">
+                <li><a href="">Home</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Our Service</a></li>
+                <li><a href="">Contact Us</a></li>
+                <li><a href="">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="mt-6 bg-white px-5 py-2 rounded-[10px]">
+            <button>Contact Us</button>
+        </div>
+    </div>
+</div>
+
+</div>
+
+    </div>
+
+    <!-- end header -->
+</body>
+</html>
+=====END HEADE======
+
+
+
+home page backu==
+====
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keystone Consulting Firm</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Add this in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+
+</head>
+<!-- 
+
+Color 1: #55AB3B
+
+Color 2: #007BB6
+
+Color 3: #00A7E0
+
+Color 4: #134B78
+
+Color 5: #094B67
+-->
+<body>
+    <!-- header -->
+
+
+    <div>
+
+            <!-- header one -->
+        <div class="bg-[#55AB3B] w-[100%] h-[50px] p-2 flex justify-between items-center">
+         <div class="flex space-x-3 items-center">
+          <i class="fa fa-phone"></i>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+         </div>
+         <!-- links -->
+          <div class="">
+            <!-- Facebook Icon -->
+<i class="fa-brands fa-facebook-f text-4xl"></i>
+
+<!-- WhatsApp Icon -->
+<i class="fa-brands fa-linkedin-in text-4xl"></i>
+
+
+
+          </div>
+        </div>
+        <!-- header two -->
+<div class="flex justify-between bg-[##ffffff]  w-[100%] h-[110px] text-white items-center px-6">
+<div class="logo">
+<img src="Assets/logo.png" alt="" srcset="">
+</div>
+<!-- left side -->
+<div class="flex justify-around space-x-3">
+    <div class="flex items-center space-x-3 bg-">
+       <i class="fa fa-phone text-2xl text-black bg-[#fff] px-3 py-2 rounded-[10px] "></i>
+        <div>
+            <p class="text-[#8f8282]">Phone Number</p>
+            <h4 class="text-black font-bold">618789789789</h4>
+        </div>
+    </div>
+     <div class="flex items-center space-x-3">
+       <i class="fa fa-map-marker text-2xl text-black bg-[#ffff] px-3 py-2 rounded-[10px] "></i>
+
+        <div>
+            <p class="text-[#8f8282]">Email Us Here</p>
+            <h4 class="text-black font-bold">majagh@gmail.com</h4>
+        </div>
+    </div>
+     <div class="flex items-center space-x-3">
+        <i class="fa fa-envelope text-2xl text-black bg-[#ffff] px-3 py-2 rounded-[10px] "></i>
+
+        <div>
+            <p class="text-[#8f8282]">Office Address</p>
+            <h4 class="text-black font-bold">618789789789</h4>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- header three -->
+<div class="bg-cover bg-center w-[100%] h-[500px] bg-gradient-to-r from-[#65d442] to-[#65d442]" style="background-image: url('Assets/bg1.jpg');">
+<div class="bg-gradient-to-r from-[#65d442] to-transparent w-[100%] h-[500px]">
+    <!-- nav -->
+  <div id="navbar" class="bg-gradient-to-r from-[#00A7E0] to-[#134B78] w-[95%] h-[55px] mx-6">
+        <div class="flex justify-between mx-6 items-center">
+            <div class="">
+                <ul class="flex space-x-5 text-xl text-white">
+                    <li><a href="">Home</a></li>
+                    <li><a href="pages/about.html">About Us</a></li>
+                    <li><a href="">Our Service</a></li>
+                    <li><a href="">Contact Us</a></li>
+                    <li><a href="">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="mt-2 bg-white px-5 py-2 rounded-[10px]">
+                <button>Contact Us</button>
+            </div>
+        </div>
+    </div>
+    <div>
+        <!-- end nav -->
+
+
+        <!-- body -->
+     <div class="p-10 flex justify-between items-center">
+        <!-- content -->
+        <div class="w-[50%]">
+          <h1 id="typed-text" class="text-4xl mb-5 font-bold text-white"></h1>
+          <P class="text-xl text-white font-semibold">Keystone Consulting Firm (KCF) is a premier advisory and consulting firm dedicated to delivering innovative, practical, and sustainable solutions to businesses, government entities, and nonprofit organizations. Founded on the principle that every successful initiative is built upon a strong foundation, KCF was established to be that essential cornerstone—helping organizations lay the groundwork for long-term success through <br>
+             thoughtful strategy, sound structure, and effective execution.</P>
+             <!-- btns -->
+             <div class="flex items-center space-x-3">
+                <button class="mt-6 text-white bg-[#134B78] px-5 py-2 rounded-[10px]">Contact Us</button>
+                <button class="mt-6 text-white bg-[#134B78] px-5 py-2 rounded-[10px]">Contact Us</button>
+             </div>
+        </div>
+        <!-- image -->
+         <div>
+            <!-- <img src="" alt="" srcset="" class="w-[500px] h-[400px]"> -->
+         </div>
+        
+     </div>
+     <!-- end body -->
+           
+           <!-- end sec div -->
+        </div> 
+         <!--end big div  -->
+    </div>
+
+
+</div>
+
+    </div>
+
+    <!-- end header -->
+ <script src="js/main.js"></script>
+</body>
+</html>
+==================homepage==========
+
+
+
+========about page backup==========
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keystone Consulting Firm</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Add this in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+
+</head>
+<!-- 
+
+Color 1: #55AB3B
+
+Color 2: #007BB6
+
+Color 3: #00A7E0
+
+Color 4: #134B78
+
+Color 5: #094B67
+-->
+<style>
+    .card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px) scale(1.03);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    }
+  </style>
+<body>
+    <!-- header -->
+
+
+    <div>
+
+            <!-- header one -->
+        <div class="bg-[#55AB3B] w-[100%] h-[50px] p-2 flex justify-between items-center">
+         <div class="flex space-x-3 items-center">
+          <i class="fa fa-phone"></i>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+         </div>
+         <!-- links -->
+          <div class="">
+            <!-- Facebook Icon -->
+<i class="fa-brands fa-facebook-f text-4xl"></i>
+
+<!-- WhatsApp Icon -->
+<i class="fa-brands fa-linkedin-in text-4xl"></i>
+
+
+
+          </div>
+        </div>
+        <!-- header two -->
+
+        
+
+<!-- header three -->
+<div class="bg-cover bg-center w-[100%] h-[300px]  rounded-br-[100px] " style="background-image: url('../Assets/11.jpg');">
+<div class="bg-gradient-to-r  w-[100%] h-[300px]">
+    <!-- nav -->
+<div id="navbar" class="bg-gradient-to-r from-[#00A7E0] to-[#134B78] w-[100%] h-[80px]">
+  <div class="flex justify-between items-center h-full mr-10">
+    
+    <!-- Logo -->
+    <div class="h-full flex items-center">
+      <img src="../Assets/logo.png" alt="Logo" class="h-[90px] w-auto"> <!-- si logo u dhex fadhiisto -->
+    </div>
+
+    <!-- Navigation Links -->
+    <div>
+      <ul class="flex space-x-5 text-xl text-white">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="">About Us</a></li>
+        <li><a href="">Our Service</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Privacy Policy</a></li>
+      </ul>
+    </div>
+
+    <!-- Button -->
+    <div>
+      <button class="bg-white text-black px-5 py-2 rounded-[10px]">Contact Us</button>
+    </div>
+
+  </div>
+</div>
+
+    <div>
+        <!-- end nav -->
+
+
+        <!-- body -->
+
+        <div class="text-white mt-[50px] p-10 flex justify-between">
+            <div>
+                <h1 class="text-5xl font-bold">ABOUT</h1>
+            </div>
+            <div class="flex justify-center items-end mt-[70px]">
+                <h1>HOME/ABOUT</h1>
+            </div>
+        </div>
+        
+     <!-- end body -->
+           
+           <!-- end sec div -->
+        </div> 
+         <!--end big div  -->
+    </div>
+
+
+</div>
+
+    </div>
+    <section class="px-8 py-16 flex flex-col lg:flex-row items-center gap-12 max-w-7xl mx-auto">
+    <!-- Left Images -->
+    <div class="relative w-full h-full lg:w-1/2">
+      <!-- Background Shape -->
+      <div class="absolute top-6 left-10 w-48 h-48 bg-gradient-to-br from-blue-100 to-cyan-100 rounded-xl rotate-6 z-0"></div>
+
+      <!-- Top Image -->
+      <img src="../Assets/lefts.png" alt="Team 1"
+           class="w-64 h-80 object-cover rounded-xl shadow-lg transform transition hover:scale-105 z-10 relative">
+
+      <!-- Bottom Image -->
+      <img src="../Assets/bg1.jpg"
+           class="absolute bottom-[-30px] left-40 w-72 h-48 object-cover rounded-xl shadow-lg transform transition hover:scale-105 z-20" alt="Team 2">
+    </div>
+
+    <!-- Right Content -->
+    <div class="w-full lg:w-1/2 space-y-6">
+      <h4 class="text-teal-600 font-semibold uppercase tracking-widest">About Our consultanty</h4>
+      <h1 class="text-4xl lg:text-5xl font-bold text-gray-800 leading-snug">
+        We’re Trusted Professional<br>
+        Consultancy Company
+      </h1>
+      <p class="text-gray-600">
+      Keystone Consulting Firm (KCF) is a premier advisory and consulting firm dedicated to delivering innovative, practical, and sustainable solutions to businesses, government entities, and nonprofit organizations. Founded on the principle that every successful initiative is built upon a strong foundation, KCF was established to be that essential cornerstone—helping organizations lay the groundwork for long-term success 
+      through thoughtful strategy, sound structure, and effective execution.
+      </p>
+
+      <ul class="space-y-3">
+        <li class="flex items-start gap-3">
+          <span class="text-green-500 mt-1">✔</span>
+          <p>KCF offers a wide range of integrated consulting services across core areas such as Strategic Planning, Organizational Development, Policy Consulting, Risk Management, Sustainability, Monitoring & Evaluation (M&E), and Training & Capacity Building. Our multidisciplinary team brings deep expertise and sector-specific knowledge, allowing us to serve a diverse range of industries—from 
+            government and nonprofits to corporate enterprises and academic institutions.</p>
+        </li>
+    
+      </ul>
+
+      <p class="pt-4">Call to ask any question <a href="tel:+52537561523" class="text-teal-600 font-semibold hover:underline">+525-3756-1523</a></p>
+
+      <!-- Buttons -->
+      <div class="flex gap-4 pt-4">
+        <button onclick="showAlert()" class="bg-green-600 text-white px-6 py-3 rounded-full shadow-md hover:bg-green-700 transition-all">
+          Make An Appointment
+        </button>
+        <button class="border border-green-600 text-green-600 px-6 py-3 rounded-full hover:bg-green-50 transition-all">
+          View Our Services
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- JavaScript Alert -->
+  <section id="statsSection" class="py-7 px-6 max-w-7xl mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      
+      <!-- Card 1 -->
+      <div class="bg-gradient-to-b from-gray-100 to-white p-6 rounded-[30px] shadow-md text-center">
+        <h2 class="text-4xl font-bold text-gray-800">
+          <span class="counter" data-target="35">0</span>
+        </h2>
+        <p class="text-sm text-teal-700 font-semibold uppercase mt-1">Years of Experience</p>
+        <p class="text-sm text-gray-500 mt-2">Central to the consultancy’s modus operandi is a commitment...</p>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="bg-gradient-to-b from-gray-100 to-white p-6 rounded-[30px] shadow-md text-center">
+        <h2 class="text-4xl font-bold text-gray-800">
+          <span class="counter" data-target="500">0</span>+
+        </h2>
+        <p class="text-sm text-teal-700 font-semibold uppercase mt-1">Official Project Completed</p>
+        <p class="text-sm text-gray-500 mt-2">Central to the consultancy’s modus operandi is a commitment...</p>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="bg-gradient-to-b from-gray-100 to-white p-6 rounded-[30px] shadow-md text-center">
+        <h2 class="text-4xl font-bold text-gray-800">
+          <span class="counter" data-target="396">0</span>+
+        </h2>
+        <p class="text-sm text-teal-700 font-semibold uppercase mt-1">In-house Team Members</p>
+        <p class="text-sm text-gray-500 mt-2">Central to the consultancy’s modus operandi is a commitment...</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- mission -->
+
+<section class="relative py-10 px-6 rounded-tr-[70px] max-w-7xl mx-auto bg-cover bg-center bg-no-repeat rounded-xl overflow-hidden"
+         style="background-image: url('../Assets/missinpg.webp');">
+    <h2 class="text-4xl text-green-700 font-bold text-center mb-12">Our Core Focus</h2>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+      
+      <!-- Mission Card -->
+      <div class="card bg-[#00A7E0]  rounded-2xl p-8 shadow-sm rounded-bl-[50px] rounded-tr-[50px]" data-aos="fade-right">
+        <h3 class="text-2xl font-bold text-teal-700 mb-4">Our Mission</h3>
+        <p class="text-white">
+          At Keystone Consulting Firm, our mission is to empower organizations—across
+           the public, private, and nonprofit sectors—with innovative, practical, and
+            sustainable consulting solutions. We partner with clients to co-create strategies 
+            that drive measurable success, enhance organizational performance, and generate 
+            long-term impact. Grounded in integrity, collaboration, and excellence, we are 
+            committed to building strong
+           foundations that support resilient institutions and thriving communities.
+        </p>
+      </div>
+
+      <!-- Vision Card -->
+      <div class="card bg-white rounded-2xl p-8 shadow-sm rounded-bl-[50px] rounded-tr-[50px]" data-aos="fade-up">
+        <h3 class="text-2xl font-bold text-blue-700 mb-4">Vision Statement</h3>
+        <p class="text-gray-600">
+            To be a trusted leader in transformative consulting—recognized <br> globally for delivering impactful, data-driven, and sustainable solutions that shape better 
+            organizations, effective governance, and a more equitable and resilient world.
+            </p>
+      </div>
+
+      <!-- Objective Card -->
+      <div class="card bg-green-900 rounded-2xl p-8 shadow-sm rounded-bl-[50px] rounded-tr-[50px]" data-aos="fade-left">
+  <h3 class="text-2xl font-bold text-purple-700 mb-4">Our Objectives</h3>
+  <ul class="list-disc list-inside text-white space-y-2">
+    <li><strong>Integrity</strong> – We operate with honesty, transparency, and reliability, ensuring every recommendation and decision is made with the highest ethical standards.</li>
+    <li><strong>Innovation</strong> – Our team fosters a culture of creativity, continuously adapting and developing new ideas to help organizations solve modern challenges.</li>
+    <li><strong>Collaboration</strong> – We believe the best outcomes come from working closely with our clients, stakeholders, and partners to co-create solutions that meet diverse needs.</li>
+    <li><strong>Excellence</strong> – We are driven by a commitment to deliver outstanding services that exceed expectations, ensuring each project’s success.</li>
+    <li><strong>Sustainability</strong> – We promote long-term thinking, ensuring that our solutions create enduring positive impacts for our clients, communities, and the environment.</li>
+  </ul>
+</div>
+
+
+    </div>
+  </section>
+
+  <!-- AOS JavaScript -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  
+
+
+  
+
+    <!-- end header -->
+ <script src="../js/main.js"></script>
+</body>
+</html>
+
+========about page end==========
+
+
+
+=====service backup=========
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keystone Consulting Firm</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Add this in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- AOS CSS -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+</head>
+<!-- 
+
+Color 1: #55AB3B
+
+Color 2: #007BB6
+
+Color 3: #00A7E0
+
+Color 4: #134B78
+
+Color 5: #094B67
+-->
+<style>
+    .card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px) scale(1.03);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    }
+  </style>
+<body>
+    <!-- header -->
+
+
+    <div>
+
+            <!-- header one -->
+        <div class="bg-[#55AB3B] w-[100%] h-[50px] p-2 flex justify-between items-center">
+         <div class="flex space-x-3 items-center">
+          <i class="fa fa-phone"></i>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+         </div>
+         <!-- links -->
+          <div class="">
+            <!-- Facebook Icon -->
+<i class="fa-brands fa-facebook-f text-4xl"></i>
+
+<!-- WhatsApp Icon -->
+<i class="fa-brands fa-linkedin-in text-4xl"></i>
+
+
+
+          </div>
+        </div>
+        <!-- header two -->
+
+        
+
+<!-- header three -->
+<div class="bg-cover bg-center w-[100%] h-[300px]  rounded-br-[100px] " style="background-image: url('../Assets/11.jpg');">
+<div class="bg-gradient-to-r  w-[100%] h-[300px]">
+    <!-- nav -->
+<div id="navbar" class="bg-gradient-to-r from-[#00A7E0] to-[#134B78] w-[100%] h-[80px]">
+  <div class="flex justify-between items-center h-full mr-10">
+    
+    <!-- Logo -->
+    <div class="h-full flex items-center">
+      <img src="../Assets/logo.png" alt="Logo" class="h-[90px] w-auto"> <!-- si logo u dhex fadhiisto -->
+    </div>
+
+    <!-- Navigation Links -->
+    <div>
+      <ul class="flex space-x-5 text-xl text-white">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="service.html">Our Service</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Privacy Policy</a></li>
+      </ul>
+    </div>
+
+    <!-- Button -->
+    <div>
+      <button class="bg-white text-black px-5 py-2 rounded-[10px]">Contact Us</button>
+    </div>
+
+  </div>
+</div>
+
+    <div>
+        <!-- end nav -->
+
+
+        <!-- body -->
+
+        <div class="text-white mt-[50px] p-10 flex justify-between">
+            <div>
+                <h1 class="text-5xl font-bold">SERVICE</h1>
+            </div>
+            <div class="flex justify-center items-end mt-[70px]">
+                <h1>HOME/SERVICES</h1>
+            </div>
+        </div>
+        
+     <!-- end body -->
+           
+           <!-- end sec div -->
+        </div> 
+         <!--end big div  -->
+    </div>
+
+
+</div>
+
+    </div>
+<section class="py-20 px-6 max-w-7xl mx-auto">
+  <!-- Title + Subtitle -->
+  <div class="text-center mb-16" data-aos="fade-down">
+    <h2 class="text-4xl md:text-5xl font-extrabold text-gray-800 mb-4">Service We Over</h2>
+    <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+      From strategic planning to sustainable development — discover how Keystone Consulting Firm drives meaningful results.
+    </p>
+  </div>
+
+  <!-- Card Grid -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
+
+    <!-- Card Template -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-chess text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Strategic Planning and Advisory</h3>
+        <p class="text-gray-600 text-sm">We help businesses and organizations identify their core objectives, define long-term strategies, and establish actionable roadmaps for success. Our consultants align vision with outcomes to maximize efficiency through strategic thinking.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/one.jpg" alt="Strategy" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-building-user text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Organizational Development</h3>
+        <p class="text-gray-600 text-sm">We advise on restructuring, leadership development, and innovation strategies to help organizations adapt, improve culture, and thrive in competitive environments.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/two.jpg" alt="Org Dev" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-landmark text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Policy and Government Consulting</h3>
+        <p class="text-gray-600 text-sm">We support public agencies in crafting policies, reforming regulations, and empowering officials through strategic policy design and legislative analysis.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/three.jpg" alt="Policy" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-shield-halved text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Risk Management and Compliance</h3>
+        <p class="text-gray-600 text-sm">We help identify risks, build compliance systems, and ensure your organization is prepared to handle crises and meet regulatory standards efficiently.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/four.webp" alt="Risk" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-leaf text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Sustainability and Social Impact</h3>
+        <p class="text-gray-600 text-sm">We support CSR and sustainability initiatives that drive positive change for people and the planet while integrating them into your business strategy.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/five.webp" alt="Sustainability" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-chart-pie text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Monitoring & Evaluation (M&E)</h3>
+        <p class="text-gray-600 text-sm">We build M&E frameworks, conduct evaluations, and deliver data-driven insights that ensure your programs meet objectives and improve over time.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/six.jpeg" alt="Monitoring" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 7 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-users-line text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Training & Capacity Building</h3>
+        <p class="text-gray-600 text-sm">We deliver custom workshops in leadership, M&E, and project management to empower your team with the skills needed to lead and innovate.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/seven.webp" alt="Training" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+    <!-- Card 8 -->
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden" data-aos="zoom-in">
+      <div class="p-6">
+        <i class="fa-solid fa-handshake-angle text-green-600 text-3xl mb-4"></i>
+        <h3 class="text-xl font-bold text-gray-800 mb-2">Consultancy for NGOs & Government</h3>
+        <p class="text-gray-600 text-sm">We provide strategic consulting to NGOs and government bodies to improve service delivery, evaluate programs, and create systemic social change.</p>
+      </div>
+      <div class="h-48 overflow-hidden group">
+        <img src="../Assets/service-image/ngo.jpg" alt="NGO" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- key service -->
+
+<section class="py-20 px-6 max-w-6xl mx-auto">
+    
+  <!-- Section Header -->
+  <div class="text-center mb-14" data-aos="fade-down">
+    <h2 class="text-4xl font-extrabold text-gray-800 mb-4">Key Services</h2>
+    <p class="text-lg text-gray-600">Explore our core Monitoring & Evaluation offerings designed to deliver measurable impact.</p>
+  </div>
+
+  <div class="bg-cover bg-center bg-no-repeat py-20 px-6 rounded-tr-[50px]  rounded-bl-[50px]" style="background-image: url('../Assets/service-image/four.webp');">
+
+  <!-- Cards Grid -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    <!-- Card 1 -->
+    <div class="bg-white rounded-xl shadow-md p-6 rounded-tr-[50px]  rounded-bl-[50px]  " data-aos="fade-up">
+      <i class="fa-solid fa-diagram-project text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">M&E Framework Development</h3>
+      <p class="text-gray-600 text-sm">We design custom M&E frameworks that align with your strategic goals and ensure clear measurement of progress and outcomes.</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-white rounded-xl shadow-md p-6 rounded-tr-[50px]  rounded-bl-[50px]" data-aos="fade-up" data-aos-delay="100">
+      <i class="fa-solid fa-chart-simple text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Impact Assessment & Evaluation</h3>
+      <p class="text-gray-600 text-sm">Evaluate how effectively your projects are making a difference, and gather insights to guide future improvements.</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-white rounded-xl shadow-md p-6 rounded-tr-[50px]  rounded-bl-[50px]" data-aos="fade-up" data-aos-delay="200">
+      <i class="fa-solid fa-chart-bar text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Performance Measurement & Reporting</h3>
+      <p class="text-gray-600 text-sm">Track KPIs and deliver timely, transparent reports that demonstrate the efficiency and effectiveness of your work.</p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-white rounded-xl shadow-md p-6 rounded-tr-[50px]  rounded-bl-[50px]" data-aos="fade-up" data-aos-delay="300">
+      <i class="fa-solid fa-magnifying-glass-chart text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Data Analysis & Actionable Insights</h3>
+      <p class="text-gray-600 text-sm">Turn raw data into meaningful insights to drive decision-making and strategic improvements across your organization.</p>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="bg-white rounded-xl shadow-md p-6 rounded-tr-[50px]  rounded-bl-[50px]" data-aos="fade-up" data-aos-delay="400">
+      <i class="fa-solid fa-bullseye text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Program Improvement Recommendations</h3>
+      <p class="text-gray-600 text-sm">Receive evidence-based recommendations to refine your programs, maximize impact, and strengthen organizational learning.</p>
+    </div>
+
+  </div>
+  </div>
+</section>
+<!-- training -->
+ <section class="py-20 px-6 max-w-6xl mx-auto">
+  <!-- Section Header -->
+  <div class="text-center mb-14" data-aos="fade-down">
+    <h2 class="text-4xl font-extrabold text-gray-800 mb-4">Training Offerings</h2>
+    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      We deliver targeted training programs designed to upskill teams and drive lasting organizational impact.
+    </p>
+  </div>
+
+  <!-- Cards Grid -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    <!-- Card 1 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up">
+      <i class="fa-solid fa-user-tie text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Leadership & Management Development</h3>
+      <p class="text-gray-600 text-sm">Empower current and future leaders with practical tools to lead effectively and inspire teams.</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="100">
+      <i class="fa-solid fa-diagram-project text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Project Management Training</h3>
+      <p class="text-gray-600 text-sm">Enhance planning, execution, and delivery skills through structured PM frameworks and tools.</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="200">
+      <i class="fa-solid fa-database text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">M&E & Data Analytics Training</h3>
+      <p class="text-gray-600 text-sm">Train teams to collect, analyze, and interpret data to monitor progress and measure impact effectively.</p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="300">
+      <i class="fa-solid fa-scale-balanced text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Policy & Governance Workshops</h3>
+      <p class="text-gray-600 text-sm">Deepen understanding of governance frameworks, policy-making, and public sector innovation.</p>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="400">
+      <i class="fa-solid fa-arrows-spin text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800 mb-2">Organizational Change Management</h3>
+      <p class="text-gray-600 text-sm">Equip teams with strategies to manage transitions, drive adoption, and ensure sustainable change.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- industries we serve -->
+<section class="py-20 px-6 max-w-6xl mx-auto">
+  <!-- Section Header -->
+  <div class="text-center mb-14" data-aos="fade-down">
+    <h2 class="text-4xl font-extrabold text-gray-800 mb-4">Industries We Serve</h2>
+    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      We provide tailored consulting services across a wide range of sectors to drive strategic outcomes and operational excellence.
+    </p>
+  </div>
+
+  <!-- Grid of 8 Cards -->
+   <div class="bg-cover bg-center bg-no-repeat py-20 px-6   rounded-tr-[50px]  rounded-bl-[50px]" style="background-image: url('../Assets/service-image/five.webp');">
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    <!-- Card 1 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up">
+      <i class="fa-solid fa-building text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Corporate & Private Sector</h3>
+      <p class="text-gray-600 text-sm mt-2">Empowering businesses to innovate, compete, and grow with confidence.</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="100">
+      <i class="fa-solid fa-landmark-dome text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Government & Public Sector</h3>
+      <p class="text-gray-600 text-sm mt-2">Enhancing public service delivery through effective governance and policy support.</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="200">
+      <i class="fa-solid fa-hands-holding-heart text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Nonprofit & NGO</h3>
+      <p class="text-gray-600 text-sm mt-2">Driving mission-focused impact and sustainable development through strategic support.</p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="300">
+      <i class="fa-solid fa-stethoscope text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Healthcare & Life Sciences</h3>
+      <p class="text-gray-600 text-sm mt-2">Improving health outcomes through data, strategy, and innovation in healthcare systems.</p>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="400">
+      <i class="fa-solid fa-piggy-bank text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Financial Services</h3>
+      <p class="text-gray-600 text-sm mt-2">Helping institutions manage risk, optimize portfolios, and navigate regulatory landscapes.</p>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="500">
+      <i class="fa-solid fa-graduation-cap text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Education & Academia</h3>
+      <p class="text-gray-600 text-sm mt-2">Partnering with academic institutions to enhance research, curriculum development, and educational impact.</p>
+    </div>
+
+    <!-- Card 7 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="600">
+      <i class="fa-solid fa-microchip text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Technology & Innovation</h3>
+      <p class="text-gray-600 text-sm mt-2">Helping tech-driven organizations accelerate innovation, digital transformation, and future-ready solutions.</p>
+    </div>
+
+    <!-- Card 8 -->
+    <div class="bg-white rounded-xl shadow-md p-6 text-center" data-aos="fade-up" data-aos-delay="700">
+      <i class="fa-solid fa-recycle text-green-600 text-4xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Environmental & Sustainability</h3>
+      <p class="text-gray-600 text-sm mt-2">Supporting eco-conscious organizations to scale sustainable solutions for a greener future.</p>
+    </div>
+
+  </div>
+</div>
+</section>
+
+
+<!-- why you choose us -->
+ <section class="py-20 px-6 max-w-6xl mx-auto">
+  <!-- Section Title -->
+  <div class="text-center mb-14" data-aos="fade-down">
+    <h2 class="text-4xl font-extrabold text-gray-800 mb-4">Why Choose Keystone Consulting Firm?</h2>
+    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      Our commitment to excellence, customization, and results makes us a trusted partner for organizations across industries.
+    </p>
+  </div>
+<div class="bg-cover bg-center bg-no-repeat py-20 px-6 rounded-tl-[50px]  rounded-br-[50px]" style="background-image: url('../Assets/service-image/seven.webp');">
+  <!-- 5 Reason Cards -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    <!-- Card 1 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up">
+      <i class="fa-solid fa-award text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Expertise & Experience</h3>
+      <p class="text-gray-600 text-sm">Our consultants bring a wealth of experience across various sectors, ensuring that your challenges are met with tailored, effective solutions.</p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="100">
+      <i class="fa-solid fa-puzzle-piece text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Customization</h3>
+      <p class="text-gray-600 text-sm">We understand that each client’s needs are unique. Our solutions are specifically designed to address your goals and challenges.</p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="200">
+      <i class="fa-solid fa-bullseye-arrow text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Results-Focused</h3>
+      <p class="text-gray-600 text-sm">We focus on delivering practical results that directly contribute to your organization’s success.</p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="300">
+      <i class="fa-solid fa-people-group text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Client-Centric Approach</h3>
+      <p class="text-gray-600 text-sm">Our priority is client satisfaction. We work alongside our clients to ensure every project aligns with their mission and goals.</p>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="bg-white rounded-xl shadow-md p-6" data-aos="fade-up" data-aos-delay="400">
+      <i class="fa-solid fa-layer-group text-green-600 text-3xl mb-4"></i>
+      <h3 class="text-xl font-bold text-gray-800">Holistic Approach</h3>
+      <p class="text-gray-600 text-sm">We offer a broad range of services that work together to keep all parts of your organization aligned and moving forward.</p>
+    </div>
+
+  </div>
+  </div>
+</section>
+
+
+<section class="py-20 px-6 max-w-6xl mx-auto bg-[#134B78] w-full h-full rounded-tr-[50px]  rounded-bl-[50px]">
+  <!-- Section Title -->
+  <div class="text-center mb-12" data-aos="fade-down">
+    <h2 class="text-4xl font-extrabold text-gray-800 mb-4">Our Team</h2>
+    <p class="text-lg text-white max-w-3xl mx-auto">
+      Keystone Consulting Firm is composed of a dynamic group of professionals with expertise in various sectors, including business strategy, public policy, management, finance, sustainability, and monitoring & evaluation. Our consultants come from diverse backgrounds, offering a unique perspective that enhances our ability to address the complex needs of our clients.
+    </p>
+  </div>
+
+  <!-- Leadership Team Header -->
+  <div class="text-center mb-10" data-aos="fade-down">
+    <h3 class="text-3xl font-bold text-white uppercase tracking-wide">Leadership Team</h3>
+  </div>
+
+  <!-- Team Cards Using Icons -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    <!-- CEO -->
+    <div class="bg-white rounded-xl shadow-lg text-center p-6" data-aos="fade-up">
+      <div class="text-green-600 mb-4">
+        <i class="fa-solid fa-user-tie text-6xl"></i>
+      </div>
+      <p class="text-sm text-gray-500">CEO & Founder</p>
+      <h4 class="text-xl font-bold text-gray-800">Abdullahi Ahmed Dol</h4>
+    </div>
+
+    <!-- Strategy & Innovation -->
+    <div class="bg-white rounded-xl shadow-lg text-center p-6" data-aos="fade-up" data-aos-delay="100">
+      <div class="text-green-600 mb-4">
+        <i class="fa-solid fa-lightbulb text-6xl"></i>
+      </div>
+      <p class="text-sm text-gray-500">Senior Consultant, Strategy & Innovation</p>
+      <h4 class="text-xl font-bold text-gray-800">Aisha Hussein Abdi</h4>
+    </div>
+
+    <!-- Monitoring & Evaluation -->
+    <div class="bg-white rounded-xl shadow-lg text-center p-6" data-aos="fade-up" data-aos-delay="200">
+      <div class="text-green-600 mb-4">
+        <i class="fa-solid fa-chart-line text-6xl"></i>
+      </div>
+      <p class="text-sm text-gray-500">Director, Monitoring & Evaluation</p>
+      <h4 class="text-xl font-bold text-gray-800">Mohamed Hashi Ahmed</h4>
+    </div>
+
+    <!-- Public Sector -->
+    <div class="bg-white rounded-xl shadow-lg text-center p-6" data-aos="fade-up" data-aos-delay="300">
+      <div class="text-green-600 mb-4">
+        <i class="fa-solid fa-landmark text-6xl"></i>
+      </div>
+      <p class="text-sm text-gray-500">Director, Public Sector & Government Relations</p>
+      <h4 class="text-xl font-bold text-gray-800">Leil Ibrahim Mohamed</h4>
+    </div>
+
+    <!-- Sustainability -->
+    <div class="bg-white rounded-xl shadow-lg text-center p-6" data-aos="fade-up" data-aos-delay="400">
+      <div class="text-green-600 mb-4">
+        <i class="fa-solid fa-leaf text-6xl"></i>
+      </div>
+      <p class="text-sm text-gray-500">Director, Sustainability & Social Impact</p>
+      <h4 class="text-xl font-bold text-gray-800">Kadija Garad Ali</h4>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+  
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- end header -->
+ <script src="../js/main.js"></script>
+</body>
+</html>
+
+=======service end======
+
+
+
+
+======contact backup======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keystone Consulting Firm</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Add this in the <head> section of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- AOS CSS -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+</head>
+<!-- 
+
+Color 1: #55AB3B
+
+Color 2: #007BB6
+
+Color 3: #00A7E0
+
+Color 4: #134B78
+
+Color 5: #094B67
+-->
+<style>
+    .card {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px) scale(1.03);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    }
+  </style>
+<body>
+    <!-- header -->
+
+
+    <div>
+
+            <!-- header one -->
+        <div class="bg-[#55AB3B] w-[100%] h-[50px] p-2 flex justify-between items-center">
+         <div class="flex space-x-3 items-center">
+          <i class="fa fa-phone"></i>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+         </div>
+         <!-- links -->
+ <div class="flex space-x-3">
+        <a href="#" class="bg-white px-3 py-2 rounded-[50%] text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="bg-white px-3 py-2 rounded-[50%] text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="bg-white px-3 py-2 rounded-[50%] text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-youtube"></i></a>
+        <a href="#" class="bg-white px-3 py-2 rounded-[50%] text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+        </div>
+        <!-- header two -->
+
+        
+
+<!-- header three -->
+<div class="bg-cover bg-center w-[100%] h-[300px]  rounded-br-[100px] " style="background-image: url('../Assets/contabat.jpg');">
+<div class="bg-gradient-to-r  w-[100%] h-[300px]">
+    <!-- nav -->
+<div id="navbar" class="bg-gradient-to-r from-[#00A7E0] to-[#134B78] w-[100%] h-[80px]">
+  <div class="flex justify-between items-center h-full mr-10">
+    
+    <!-- Logo -->
+    <div class="h-full flex items-center">
+      <img src="../Assets/logo.png" alt="Logo" class="h-[90px] w-auto"> <!-- si logo u dhex fadhiisto -->
+    </div>
+
+    <!-- Navigation Links -->
+    <div>
+      <ul class="flex space-x-5 text-xl text-white">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="service.html">Our Service</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="">Privacy Policy</a></li>
+      </ul>
+    </div>
+
+    <!-- Button -->
+    <div>
+      <button class="bg-white text-black px-5 py-2 rounded-[10px]">Contact Us</button>
+    </div>
+
+  </div>
+</div>
+
+    <div>
+        <!-- end nav -->
+
+
+        <!-- body -->
+
+        <div class="text-white mt-[50px] p-10 flex justify-between">
+            <div>
+                <h1 class="text-5xl font-bold">CONTACT</h1>
+            </div>
+            <div class="flex justify-center items-end mt-[70px]">
+                <h1>HOME/CONTACT</h1>
+            </div>
+        </div>
+        
+     <!-- end body -->
+           
+           <!-- end sec div -->
+        </div> 
+         <!--end big div  -->
+    </div>
+
+
+</div>
+
+    </div>
+
+
+<div class="bg-[#eaeaea] w-full min-h-screen py-12 px-4 sm:px-6 lg:px-8">
+  <div class="grid grid-cols-1 md:grid-cols-2 bg-white shadow-lg rounded-lg overflow-hidden max-w-7xl mx-auto w-full">
+    
+    <!-- Left Side -->
+    <div class="bg-white p-8 space-y-6">
+      <p class="text-[#00A7E0] font-semibold text-sm">Contact With Us</p>
+      <h2 class="text-4xl font-extrabold text-gray-900">Get In Touch!</h2>
+      <p class="text-gray-600">We’d love to hear from you. Reach out to us using the contact details or the form.</p>
+
+      <div class="space-y-4 mt-6">
+        <div class="flex items-start space-x-4">
+          <div class="text-2xl text-white bg-[#00A7E0] p-3 rounded-full">
+            <i class="fas fa-map-marker-alt"></i>
+          </div>
+          <div>
+            <h4 class="font-semibold text-lg text-gray-900">Headquarters</h4>
+            <p class="text-gray-600 text-sm">Kismayo, Jubaland State, Somalia</p>
+          </div>
+        </div>
+
+        <div class="flex items-start space-x-4">
+          <div class="text-2xl text-white bg-[#00A7E0] p-3 rounded-full">
+            <i class="fas fa-phone-alt"></i>
+          </div>
+          <div>
+            <h4 class="font-semibold text-lg text-gray-900">Call Us</h4>
+            <p class="text-gray-600 text-sm">(+252) 61 6466071</p>
+          </div>
+        </div>
+
+        <div class="flex items-start space-x-4">
+          <div class="text-2xl text-white bg-[#00A7E0] p-3 rounded-full">
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div>
+            <h4 class="font-semibold text-lg text-gray-900">Email</h4>
+            <p class="text-gray-600 text-sm">keystoncfirm@gmail.com</p>
+          </div>
+        </div>
+
+        <div class="flex items-start space-x-4">
+          <div class="text-2xl text-white bg-[#00A7E0] p-3 rounded-full">
+            <i class="fas fa-globe"></i>
+          </div>
+          <div>
+            <h4 class="font-semibold text-lg text-gray-900">Website</h4>
+            <p class="text-gray-600 text-sm">www.keystoneconsulting.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Side (Form) -->
+    <div class="bg-gray-100 p-8 space-y-4">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div class="relative">
+          <input type="text" placeholder="Full Name*" class="w-full border border-gray-300 rounded-md px-4 py-3 focus:outline-none focus:ring focus:ring-[#55AB3B]"/>
+          <i class="fas fa-user absolute top-3 right-3 text-[#00A7E0]"></i>
+        </div>
+        <div class="relative">
+          <input type="email" placeholder="Email Address*" class="w-full border border-gray-300 rounded-md px-4 py-3 focus:outline-none focus:ring focus:ring-[#55AB3B]"/>
+          <i class="fas fa-envelope absolute top-3 right-3 text-[#00A7E0]"></i>
+        </div>
+      </div>
+
+      <div class="relative">
+        <input type="text" placeholder="Phone Number*" class="w-full border border-gray-300 rounded-md px-4 py-3 focus:outline-none focus:ring focus:ring-[#55AB3B]"/>
+        <i class="fas fa-phone absolute top-3 right-3 text-[#00A7E0]"></i>
+      </div>
+
+      <div class="relative">
+        <select class="w-full border border-gray-300 rounded-md px-4 py-3 bg-white focus:outline-none focus:ring focus:ring-[#55AB3B]">
+          <option>Select Service *</option>
+          <option>Solar Installation</option>
+          <option>Energy Audit</option>
+          <option>Hybrid Solutions</option>
+        </select>
+        <i class="fas fa-edit absolute top-3 right-3 text-[#00A7E0]"></i>
+      </div>
+
+      <div>
+        <input type="text" placeholder="Your Company Name*" class="w-full border border-gray-300 rounded-md px-4 py-3 focus:outline-none focus:ring focus:ring-[#55AB3B]"/>
+      </div>
+
+      <div class="relative">
+        <textarea rows="4" placeholder="Write your question here*" class="w-full border border-gray-300 rounded-md px-4 py-3 focus:outline-none focus:ring focus:ring-[#55AB3B] resize-y"></textarea>
+        <i class="fas fa-comment-dots absolute top-3 right-3 text-[#00A7E0]"></i>
+      </div>
+
+      <div>
+        <button class="bg-[#00A7E0] text-white px-6 py-3 rounded-md hover:bg-[#55AB3B] transition duration-300">
+          Send Message
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- footer -->
+<footer class="bg-green-900 text-white py-16 mt-10">
+  <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+    
+    <!-- Logo + About -->
+    <div>
+      <div class="flex items-center space-x-3 mb-4 ">
+        <img src="../Assets/logo.png" alt="Logo" class="w-[100px] h-[100px] bg-white rounded-[50%]">
+        <h2 class="text-xl font-bold">Keystone</h2>
+      </div>
+      <p class="text-sm text-gray-200">Excellence decisively drives real impact. We bring clarity and value through tailored consulting solutions.</p>
+
+      <div class="mt-6">
+        <p class="font-semibold mb-1">OPENING HOURS</p>
+        <p class="text-sm text-gray-100">Monday – Saturday: <span class="float-right">2PM – 2AM</span></p>
+        <p class="text-sm text-gray-100">Sunday: <span class="float-right">OFF DAY</span></p>
+      </div>
+    </div>
+
+    <!-- Company Links -->
+    <div>
+      <h3 class="font-bold mb-4">Our Company</h3>
+      <ul class="space-y-2 text-sm text-gray-100">
+        <li><a href="#">Company Profile</a></li>
+        <li><a href="#">Help Center</a></li>
+        <li><a href="#">Career</a></li>
+        <li><a href="#">Plans & Pricing</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Services -->
+    <div>
+      <h3 class="font-bold mb-4">Our Services</h3>
+      <ul class="space-y-2 text-sm text-gray-100">
+        <li><a href="#">Manage Investment</a></li>
+        <li><a href="#">Business Planning</a></li>
+        <li><a href="#">Financial Advice</a></li>
+        <li><a href="#">Tax Strategy</a></li>
+        <li><a href="#">Insurance Strategy</a></li>
+      </ul>
+    </div>
+
+    <!-- Newsletter -->
+    <div>
+      <h3 class="font-bold mb-4">Newsletter</h3>
+      <p class="text-sm text-gray-200 mb-4">Join our subscribers list to get the latest updates and offers.</p>
+      <form class="flex mb-4">
+        <input type="email" placeholder="Your Email" class="w-full px-3 py-2 text-sm text-black focus:outline-none">
+        <button class="bg-white text-green-800 font-bold px-4 py-2 hover:bg-gray-100 transition">SUBSCRIBE</button>
+      </form>
+
+      <!-- Social Icons -->
+      <div class="flex space-x-3">
+        <a href="#" class="bg-white p-2 rounded text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="bg-white p-2 rounded text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="bg-white p-2 rounded text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-youtube"></i></a>
+        <a href="#" class="bg-white p-2 rounded text-green-900 hover:bg-green-700 hover:text-white transition"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Footer -->
+  <div class="mt-10 border-t border-green-700 pt-6 text-center text-sm text-gray-200">
+    © Copyright 2024. All Rights Reserved by <span class="text-white font-semibold">Keystone Consulting Firm</span>
+    <div class="mt-2 space-x-4">
+      <a href="#" class="hover:text-white">Terms</a>
+      <a href="#" class="hover:text-white">Privacy</a>
+      <a href="#" class="hover:text-white">Support</a>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- end header -->
+ <script src="../js/main.js"></script>
+</body>
+</html>
