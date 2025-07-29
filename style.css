@@ -1,0 +1,24 @@
+#leftsss {
+    animation: left 5s forwards;
+}
+#rightss {
+    animation: right 5s forwards;
+}
+
+@keyframes left {
+    from {
+        transform: translateX(-1000px); /* Capital 'X' is required */
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes right {
+    from {
+        transform: translateX(1000px); /* Capital 'X' is required */
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
