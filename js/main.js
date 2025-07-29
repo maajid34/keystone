@@ -128,3 +128,29 @@
 // resposnive
 
 
+  // Sug in page-ka si buuxda u load gareeyo
+  window.onload = function() {
+    const aboutLink = document.getElementById("aboutLink");
+    const contactlink = document.getElementById("contactlink");
+    const servlink = document.getElementById("servlink");
+    const indexlink = document.getElementById("indexlink");
+
+    // Ku dar event markuu mouse-ka dul yimaado
+    aboutLink.addEventListener("mouseover", function() {
+      // U gudub page-ka
+      window.location.href = "pages/about.html";
+    });
+    contactlink.addEventListener("mouseover", function() {
+      // U gudub page-ka
+      window.location.href = "pages/contact.html";
+    });
+    servlink.addEventListener("mouseover", function() {
+      // U gudub page-ka
+      window.location.href = "pages/service.html";
+    });
+    indexlink.addEventListener("mouseover", function() {
+      // U gudub page-ka
+      window.location.href = "index.html";
+    });
+  }
+
